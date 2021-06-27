@@ -1,0 +1,10 @@
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\bin\Debug\2_32MestintBeadando.exe.config
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\bin\Debug\2_32MestintBeadando.exe
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\bin\Debug\2_32MestintBeadando.pdb
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\obj\Debug\2_32MestintBeadando.csprojAssemblyReference.cache
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\obj\Debug\_2_32MestintBeadando.Properties.Resources.resources
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\obj\Debug\2_32MestintBeadando.csproj.GenerateResource.cache
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\obj\Debug\2_32MestintBeadando.csproj.CoreCompileInputs.cache
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\obj\Debug\2_32MestintBeadando.exe
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\obj\Debug\2_32MestintBeadando.pdb
+C:\Users\Zsolti\source\repos\2_32MestintBeadando\2_32MestintBeadando\obj\Debug\_2_32MestintBeadando.Form1.resources
